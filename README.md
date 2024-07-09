@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on my Profile.
-- 🌱 I’m currently learning DSA and Cybersec.
+- 🌱 I’m currently learning DSA and Cybersecurity.
 - 👯 I’m looking to collaborate on Building supercool Projects.
 - 🤔 I’m looking for help with My Projects.
 - 💬 Ask me about Python/linux/Docker/Blockchain.
