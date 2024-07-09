@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 
 
 - 🔭 I’m currently working on my Profile.
 - 🌱 I’m currently learning DSA and Cybersecurity.
@@ -23,7 +23,10 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-
-
 <br />
 
+#
+
+### Stats 🗿
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=sahilsea&show_icons=true&theme=gruvbox)
