@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Projects.
 - 💬 Ask me about Python/linux/Docker/Blockchain.
 - 📫 How to reach me: look my socials.
-- ⚡ Fun fact: I can read your mind.
+- ⚡ Fun fact: I can read mind.
 
 ---
 
