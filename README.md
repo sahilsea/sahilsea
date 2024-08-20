@@ -2,7 +2,7 @@
 
 <!-- 🔭 I’m currently working on my Profile. -->
 - 🌱 I'm Currently learning DSA and Cybersecurity.
-- 👨‍🏫 I have done projects like 2D Game (using Godot) and 40 small projects in python like a Password managers.
+- 👨‍🏫 I have done projects like 2D Game (using Godot) and 40 small projects in python like a Password manager.
 - 👯 Looking to collaborate to Build supercool Projects.
 - 🤔 I’m looking for help with Projects.
 - 💬 Ask me about Python/linux/Docker/Blockchain.
