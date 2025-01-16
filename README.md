@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 <!-- 🔭 I’m currently working on my Profile. -->
-- 🌱 I'm Currently learning Web Development.
+- 🌱 Full Stack Web Developer.
 - 👨‍🏫 I have done projects like 2D Game (using Godot) and 40 small projects in python like a Password manager.
 - 👯 Looking to collaborate to Build supercool Projects.
 - 🤔 I’m looking for help with Projects.
