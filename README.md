@@ -21,7 +21,7 @@
 
 I build **multi-agent systems that run entirely on your own hardware** — no cloud, no data leaving the building. Most of my current work is on Google's Agent Development Kit: structured extraction under Pydantic schemas, long-running agents that survive crashes, and enforcing real limits in code rather than trusting prompt instructions.
 
-- 🔭 Currently building **PRAMANA** — a sovereign, air-gapped agentic workbench for a public-sector oil refinery, with clearance-aware retrieval and a tamper-evident audit ledger
+- 🔭 Currently building **SEVERANCE** — a sovereign, air-gapped agentic workbench for a public-sector oil refinery, with clearance-aware retrieval and a tamper-evident audit ledger
 - 🌱 Going deep on **agent orchestration**, local model serving, and retrieval systems that enforce access control *inside* the query
 - 💬 Ask me about **Python, Linux, Docker, LLM agents**
 - ⚡ Principle I build by: *the model proposes, the code decides*
