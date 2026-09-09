@@ -57,9 +57,11 @@ I build **multi-agent systems that run entirely on your own hardware** — no cl
 
 ---
 
-### Stats
+
 
 <!-- <p align="center">
+### Stats
+
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsea&show_icons=true&hide_border=true&theme=dark&icon_color=0f6e56&cache_seconds=86400" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsea&layout=compact&hide_border=true&theme=dark&cache_seconds=86400" alt="Top languages"/>
 </p> -->
