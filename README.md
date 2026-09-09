@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Agent Developer</b> · Building on-premise agentic AI systems<br/>
-  <sub>2nd year PostGrad · Patna, India</sub>
+  <sub>2nd year PostGrad · Bengaluru, India</sub>
 </p>
 
 <p align="center">
