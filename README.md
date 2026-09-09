@@ -59,10 +59,10 @@ I build **multi-agent systems that run entirely on your own hardware** — no cl
 
 ### Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahilsea&show_icons=true&hide_border=true&theme=dark&icon_color=0f6e56&cache_seconds=86400" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsea&layout=compact&hide_border=true&theme=dark&cache_seconds=86400" alt="Top languages"/>
-</p>
+</p> -->
 
 <!--
   IF THE TWO IMAGES ABOVE ARE BROKEN:
@@ -72,6 +72,6 @@ I build **multi-agent systems that run entirely on your own hardware** — no cl
   with your own Vercel URL, e.g. "sahilsea-stats.vercel.app".
 -->
 
----
 
-<p align="center"><sub>Open to collaboration on agentic AI and local-first systems.</sub></p>
+
+<!-- <p align="center"><sub>Open to collaboration on agentic AI and local-first systems.</sub></p> -->
