@@ -51,7 +51,7 @@ I build **multi-agent systems that run entirely on your own hardware** — no cl
 
 | Project | What it is |
 |---|---|
-| **PRAMANA** | Air-gapped agentic workbench. Clearance-aware retrieval, hash-chained audit ledger, classification inheritance on generated documents. |
+| **SEVERANCE** | Air-gapped agentic workbench. Clearance-aware retrieval, hash-chained audit ledger, classification inheritance on generated documents. |
 | **100-Days-Python** | 100 days of Python, one build per day. |
 | **Dragon Prince** | First game, built in Godot. |
 
