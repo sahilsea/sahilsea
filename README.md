@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/sahil-sea-0310a714b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sea.sahil">
+  <a href="[https://instagram.com/sea.sahil](https://www.instagram.com/sea.sahil10?stkn=MTFqNjEzNW9nYXQ0)">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=sahilsea&style=for-the-badge&color=0f6e56" alt="Profile views"/>
